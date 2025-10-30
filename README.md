@@ -51,6 +51,6 @@ Whether it’s debugging or brainstorming, I play every inning with passion and 
 
 ✉️ Email: mukeshkanna1066@gmail.com
 
-💼 LinkedIn: linkedin.com/in/mukeshkanna112
+💼 LinkedIn: https://www.linkedin.com/in/mukeshkanna112/
 
-🌐 Portfolio: mugiprofile.netlify.app
+🌐 Portfolio: https://mukeshkanna-sites.netlify.app/
